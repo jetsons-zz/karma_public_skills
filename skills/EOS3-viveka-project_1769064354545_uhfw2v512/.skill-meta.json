@@ -1,0 +1,8 @@
+{
+  "id": "EOS3-viveka-project_1769064354545_uhfw2v512",
+  "name": "赖耶浅色风格 PPT 制作助手",
+  "description": "专业的赖耶浅色风格 PPT 制作助手，遵循白色背景、青绿高亮色系统（#2ABAB7、#00DA90）、思源黑体+Montserrat 字体系统、线性图标风格、Punch 配色法则和苹果简约设计理念。调用 Gemini 3 pro Image 生成高质量 PPT 图片，支持企业 logo 嵌入，最终导出为 PDF 文件。使用触发词「调用赖耶浅色风格 PPT 助手」即可启动完整制作流程。",
+  "source": "store",
+  "version": "1.0.0",
+  "installedAt": "2026-01-23T08:14:00.269Z"
+}

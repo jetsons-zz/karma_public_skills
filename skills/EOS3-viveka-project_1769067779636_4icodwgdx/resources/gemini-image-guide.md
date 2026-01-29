@@ -1,0 +1,1 @@
+Gemini Image Generation API支持通过自然语言提示词生成高质量图像。推荐使用Gemini 2.0 Flash Image模型获得最佳效果。关键参数包括：aspectRatio（推荐16:9用于海报）、numberOfImages（1-8张）、safetySettings（内容过滤级别）。提示词工程技巧：使用描述性形容词、指定艺术风格、明确构图要求、添加技术参数（如渲染引擎、分辨率）。

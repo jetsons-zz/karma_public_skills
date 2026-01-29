@@ -1,0 +1,37 @@
+{
+  "original_image": "filename.png",
+  "analysis": {
+    "subject": {"en": "", "cn": ""},
+    "style": {"en": "", "cn": ""},
+    "composition": {"en": "", "cn": ""},
+    "colors": {"en": "", "cn": ""},
+    "lighting": {"en": "", "cn": ""}
+  },
+  "extracted_prompt": {
+    "positive": {
+      "full": "完整的英文正向提示词",
+      "full_cn": "完整的中文正向提示词",
+      "structured": {
+        "subject": "",
+        "environment": "",
+        "style": "",
+        "quality": "",
+        "technical": ""
+      }
+    },
+    "negative": {
+      "full": "英文负面提示词",
+      "full_cn": "中文负面提示词"
+    }
+  },
+  "parameters": {
+    "aspect_ratio": "16:9",
+    "suggested_size": "1920x1080",
+    "style_weight": "medium",
+    "quality_tags": ["high quality", "detailed", "professional"]
+  },
+  "modification_suggestions": [
+    {"aspect": "背景", "suggestion_en": "", "suggestion_cn": ""},
+    {"aspect": "光照", "suggestion_en": "", "suggestion_cn": ""}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "api": {
+    "endpoint": "https://generativelanguage.googleapis.com/v1",
+    "model": "gemini-3-pro-video",
+    "timeout": 60,
+    "max_retries": 3,
+    "retry_delay": 5
+  },
+  "video": {
+    "default_resolution": "1920x1080",
+    "default_duration": 5,
+    "default_fps": 30,
+    "supported_formats": ["mp4", "avi", "mov"]
+  },
+  "processing": {
+    "max_concurrent": 3,
+    "enable_checkpoint": true,
+    "auto_compress": false,
+    "compression_quality": 23
+  },
+  "ffmpeg": {
+    "codec": "libx264",
+    "audio_codec": "aac",
+    "preset": "medium",
+    "concat_method": "concat"
+  },
+  "output": {
+    "final_video_name": "final_video.mp4",
+    "keep_intermediate": true,
+    "generate_report": true
+  }
+}

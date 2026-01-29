@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "standard": "GB/T 9704-2012",
+  "settings": {
+    "defaultFont": "仿宋GB2312",
+    "defaultFontSize": "三号",
+    "lineSpacing": "28磅",
+    "paperSize": "A4",
+    "margins": {
+      "top": "37mm",
+      "bottom": "35mm",
+      "left": "28mm",
+      "right": "26mm"
+    },
+    "dateFormat": "chinese",
+    "enableAutoCheck": true
+  },
+  "documentTypes": [
+    "心得体会",
+    "通知",
+    "讲话稿",
+    "工作报告",
+    "请示",
+    "工作方案",
+    "调研报告",
+    "邀请函"
+  ]
+}

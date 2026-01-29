@@ -1,0 +1,75 @@
+{
+  "dimensions": {
+    "width": 0,
+    "height": 0,
+    "aspectRatio": "16:9",
+    "description": "",
+    "descriptionCN": ""
+  },
+  "subject": {
+    "main": "",
+    "mainCN": "",
+    "secondary": "",
+    "secondaryCN": "",
+    "background": "",
+    "backgroundCN": ""
+  },
+  "composition": {
+    "rule": "",
+    "ruleCN": "",
+    "focalPoint": "",
+    "focalPointCN": "",
+    "balance": "",
+    "balanceCN": ""
+  },
+  "style": {
+    "artistic": "",
+    "artisticCN": "",
+    "render": "",
+    "renderCN": "",
+    "era": "",
+    "eraCN": "",
+    "mood": "",
+    "moodCN": ""
+  },
+  "colors": {
+    "dominant": [],
+    "dominantCN": [],
+    "palette": "",
+    "paletteCN": "",
+    "scheme": "",
+    "schemeCN": ""
+  },
+  "lighting": {
+    "type": "",
+    "typeCN": "",
+    "direction": "",
+    "directionCN": "",
+    "intensity": "",
+    "intensityCN": "",
+    "mood": "",
+    "moodCN": ""
+  },
+  "details": {
+    "sharpness": "",
+    "sharpnessCN": "",
+    "noise": "",
+    "noiseCN": "",
+    "complexity": "",
+    "complexityCN": ""
+  },
+  "tags": [],
+  "tagsCN": [],
+  "prompt": {
+    "positive": "",
+    "positiveCN": "",
+    "negative": "",
+    "negativeCN": ""
+  },
+  "metadata": {
+    "format": "",
+    "fileSize": "",
+    "colorSpace": "",
+    "analyzed": ""
+  }
+}

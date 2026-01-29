@@ -1,0 +1,8 @@
+{
+  "id": "EOS3-viveka-project_1769067229251_edhuuj1mm",
+  "name": "AI PPT 智能生成器",
+  "description": "专业的 AI PPT 制作工具，基于 Gemini 3 Pro Image 模型生成高质量演示文稿。支持多风格设计方案预览、逐页智能生成、实时预览和 PDF 导出。工作流程：1)接收用户文案 2)生成三种设计风格样例供选择 3)批量生成 PPT 图片 4)整合导出为 PDF。触发词：调用AI PPT",
+  "source": "store",
+  "version": "1.0.0",
+  "installedAt": "2026-01-23T08:14:16.535Z"
+}

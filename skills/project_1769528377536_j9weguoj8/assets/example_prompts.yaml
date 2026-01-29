@@ -1,0 +1,31 @@
+project:
+  name: '示例视频项目'
+  description: '用于演示的示例视频合集'
+  output_resolution: '1920x1080'
+  default_duration: 6
+
+videos:
+  - prompt: '一只可爱的橘猫在窗台上晒太阳，慵懒地伸懒腰'
+    duration: 5
+    resolution: '1920x1080'
+    tags: ['动物', '治愈', '日常']
+    
+  - prompt: '繁华的城市街道，夜晚霓虹灯闪烁，人流如织'
+    duration: 8
+    resolution: '1920x1080'
+    tags: ['城市', '夜景', '繁华']
+    
+  - prompt: '宁静的森林中，阳光透过树叶洒下斑驳的光影'
+    duration: 7
+    resolution: '1920x1080'
+    tags: ['自然', '森林', '宁静']
+    
+  - prompt: '海浪轻轻拍打着沙滩，夕阳余晖映照在海面上'
+    duration: 10
+    resolution: '1920x1080'
+    tags: ['大海', '日落', '浪漫']
+
+post_processing:
+  add_transitions: true
+  transition_duration: 1
+  compress: false

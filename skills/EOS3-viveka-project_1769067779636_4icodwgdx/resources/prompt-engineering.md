@@ -1,0 +1,1 @@
+创建信息密集型海报的关键要素：1)明确视觉层次（主体-背景-注释）；2)使用专业术语（如'blueprint aesthetic'、'technical diagram'）；3)指定渲染风格（Octane、Unreal Engine）；4)平衡信息密度与可读性；5)利用'museum quality'、'editorial layout'等描述提升专业感。对于时间线类设计，强调'chronological'、'evolution'、'progression'等关键词。

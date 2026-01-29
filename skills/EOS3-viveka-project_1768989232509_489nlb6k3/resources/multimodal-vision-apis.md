@@ -1,0 +1,1 @@
+介绍Claude Vision、GPT-4 Vision、Gemini Vision等多模态模型的图像分析能力。包含API调用示例、支持的图片格式、输出结构化数据的方法、以及不同模型在图像理解任务上的性能对比。重点说明如何通过prompt engineering实现精确的结构化JSON输出。

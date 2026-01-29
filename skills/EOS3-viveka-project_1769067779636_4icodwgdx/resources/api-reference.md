@@ -1,0 +1,1 @@
+Gemini Image API端点：POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent。主要参数：contents（包含提示词的parts数组）、generationConfig（包含responseModalities、imageGenerationConfig）。imageGenerationConfig支持：aspectRatio（1:1/16:9/9:16/4:3/3:4）、numberOfImages、negativePrompt、seed。响应包含base64编码的图像数据或存储URI。
